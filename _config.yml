@@ -10,3 +10,4 @@ github_username:  mkliegl
 
 # Build settings
 markdown: kramdown
+permalink: "/:title"
