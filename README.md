@@ -1,13 +1,9 @@
 # mkliegl.github.io
 
-**NOTE:** The website is not live yet. (It resides in the 'develop' branch,
-not yet merged into 'master'.)
-
-This is the repository for the website http://mkliegl.github.io/
+This is the repository for the website https://mkliegl.github.io/
 hosted by [github-pages](https://pages.github.com).
 
-It is built using
-- [Jekyll](http://jekyllrb.com/)
+It is built using [Jekyll](http://jekyllrb.com/).
 
 ## Testing the site locally
 

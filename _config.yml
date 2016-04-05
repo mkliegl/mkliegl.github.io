@@ -1,6 +1,6 @@
 # Site settings
 title: Markus Kliegl's Blog
-email: mkliegl@users.noreply.github.com
+email: markus@coniri.com
 description: > # this means to ignore newlines until "baseurl:"
   Mathematics, data science, machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
