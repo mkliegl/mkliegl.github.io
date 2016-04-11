@@ -4,10 +4,15 @@ email: markus@coniri.com
 description: > # this means to ignore newlines until "baseurl:"
   Mathematics, data science, machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mkliegl.github.io" # the base hostname & protocol for your site
+url: "https://mkliegl.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  mkliegl
+github_username: mkliegl
 
 # Build settings
 markdown: kramdown
 permalink: "/:title"
+
+# MathJax
+math_engine: mathjax
+math_engine_opts:
+  preview: true

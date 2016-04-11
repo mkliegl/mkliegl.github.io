@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I am interested in mathematics, machine learning, and data science.
-
-I hope to maintain a high signal-to-noise ratio on this blog, emphasizing
-*quality* and *originality* over *quantity*.
+I plan to write about mathematics, machine learning, and data science on
+this blog. I hope to maintain a high signal-to-noise ratio, emphasizing
+quality and originality over quantity. For my GitHub projects, go
+[here][github-projects].
 
 
 ## Research interests
@@ -60,7 +60,7 @@ I am best reached by email at [{{ site.email }}](mailto:{{ site.email }}).
 
 
 [google-scholar-profile]: https://scholar.google.com/citations?user=hKjmnDUAAAAJ&hl=en
-[thesis-PDF]: /files/Kliegl_Markus_thesis.pdf
+[thesis-PDF]: /assets/Kliegl_Markus_thesis.pdf
 [thesis-durable]: http://pqdtopen.proquest.com/pubnum/10010743.html
 [water-insects]: http://math.mit.edu/~bush/?p=762
 [schlumberger]: http://www.slb.com/
@@ -72,3 +72,4 @@ I am best reached by email at [{{ site.email }}](mailto:{{ site.email }}).
 [qrw-doi]: http://dx.doi.org/10.1142/S0219749908004377
 [eage-doi]: http://dx.doi.org/10.3997/2214-4609.20141285
 [slb-patent]: http://www.freepatentsonline.com/y2015/0192694.html
+[github-projects]: https://github.com/mkliegl
