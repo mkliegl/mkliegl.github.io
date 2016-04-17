@@ -12,6 +12,11 @@ tags:
 - cost functions
 ---
 
+**Update** (April 17, 2016): What I call the *Japanese bracket cost function*
+below seems to already be known as the *Pseudo-Huber loss function*. See
+[this][wiki-huber] Wikipedia page for references.
+
+
 ## Background and motivation
 
 Many machine-learning problems can be formulated as minimizing a
@@ -184,3 +189,4 @@ sharpening (a geophysical inverse problem).
 [schick-mitter]: http://www.jstor.org/stable/2242306
 [schick-mitter-pdf]: http://www.mit.edu/~mitter/publications/73_robust_recursive_AOS.pdf
 [custom-sklearn]: https://github.com/mkliegl/custom-sklearn
+[wiki-huber]: https://en.wikipedia.org/wiki/Huber_loss
