@@ -143,7 +143,7 @@ This tells us how to *adversarially* pick $\xi$ so as to maximize the error
 in recovery of $\beta$. This worst case is always a possibility.
 However, probabilistically, we would typically expect the error
 to be smaller. For example, if the entries of $\xi$ are i.i.d.
-random variables with mean zero, then $\xi$ has no preferred direction.
+normal random variables with mean zero, then $\xi$ has no preferred direction.
 If the variance of the random variables is $\sigma^2$, then the
 expected value of the magnitude of the projection is just
 
