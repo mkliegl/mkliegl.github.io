@@ -12,7 +12,10 @@ tags:
 - cost functions
 ---
 
-**Update** (April 17, 2016): What I call the *Japanese bracket cost function*
+**Update (April 18, 2016):** For a more detailed mathematical analysis, see
+[this post][sensan].
+
+**Update (April 17, 2016):** What I call the *Japanese bracket cost function*
 below seems to already be known as the *Pseudo-Huber loss function*. See
 [this][wiki-huber] Wikipedia page for references.
 
@@ -190,3 +193,4 @@ sharpening (a geophysical inverse problem).
 [schick-mitter-pdf]: http://www.mit.edu/~mitter/publications/73_robust_recursive_AOS.pdf
 [custom-sklearn]: https://github.com/mkliegl/custom-sklearn
 [wiki-huber]: https://en.wikipedia.org/wiki/Huber_loss
+[sensan]: /sensitivity-analysis
